@@ -1,4 +1,3 @@
-
 export type dimension = {
     width: number;
     height: number;

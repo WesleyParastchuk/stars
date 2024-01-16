@@ -1,0 +1,1 @@
+export const universeElement: HTMLElement | null = document.getElementById("universe");
